@@ -1,0 +1,9 @@
+/* Dhwanil Desai 7555 CS610 Pagerank and Hits 
+
+HANDOUT 2 ADHERED; pgrk7555 and hits7555 has no bugs.
+
+compile both the files first by using javac *.java
+
+# Usage
+java hits7555 iterations initialvalue filename
+java pgrk7555 iterations initialvalue filename
